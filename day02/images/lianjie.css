@@ -1,0 +1,11 @@
+#basic1 dl dd,#basic2 dl dd{
+	font-style:italic;
+	font-size:17px;
+}
+#basic1{
+	float:left;
+	margin-right:55px;
+}
+#basic2{
+	
+}
