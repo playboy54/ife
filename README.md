@@ -87,7 +87,7 @@ string &operator+(const string& A,const string& B) //cpp
     全军突击
     冲啊
     引火对敌
-    [引用三级标题](#ife)
+
     ---
     ***
     >这是一个引用；原型和构造器的孩子，他有公共属性，也有私有属性>
@@ -97,5 +97,5 @@ string &operator+(const string& A,const string& B) //cpp
     * 我是以
     * 我是列表项2
     * 我是列表项3
-    
+[引用三级标题](#ife)    
     
