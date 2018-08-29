@@ -52,7 +52,7 @@
 >> 树
 >>> 二叉树
 >>>> 平衡二叉树
->>>>> 满二叉树
+>>>>> 满二叉树  <span id="jump">Hello World</span>
 
 代码高亮
 ----------
@@ -98,4 +98,13 @@ string &operator+(const string& A,const string& B) //cpp
     * 我是列表项2
     * 我是列表项3
 [引用三级标题](#ife)    
+
+	.clr {
+		clear: both;
+		width: 0px;
+		height: 0px;
+		overflow: hidden;
+	}/*清除div非常重要。就是在导航条和主页面直接插入
+ 
     
+ 
