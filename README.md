@@ -52,7 +52,7 @@
 >> 树
 >>> 二叉树
 >>>> 平衡二叉树
->>>>> 满二叉树  <span id="jump">Hello World</span>
+>>>>> 满二叉树   
 
 代码高亮
 ----------
@@ -105,6 +105,12 @@ string &operator+(const string& A,const string& B) //cpp
 		height: 0px;
 		overflow: hidden;
 	}/*清除div非常重要。就是在导航条和主页面直接插入
- 
-    
- 
+	
+是的 
+
+不是的
+
+浏览器检测什么
+
+userAgent
+
